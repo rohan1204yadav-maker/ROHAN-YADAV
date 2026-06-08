@@ -76,7 +76,7 @@ Delhi Skill and Entrepreneurship University (DSEU) · CGPA: 7.29 · 2021–2024
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Yadav-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-yadav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Yadav-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-yadav-262a93240/)
 [![Email](https://img.shields.io/badge/Email-rohan1204yadav%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rohan1204yadav@gmail.com)
 
 ---
